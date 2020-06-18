@@ -1,0 +1,58 @@
+body{
+    font-family: 'Montserrat';
+}
+.navbar{
+    background-color: gray !important;
+    color: white;
+}
+.nav-item{
+    color: white !important;
+}
+
+.Jumbotron{
+    height: 360px;
+    background-color: #dbdbdb;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+.text-jumbotron h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+.text-jumbotron h3{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.bg-abu{
+    background-color: #424242;
+}
+.informasi h3{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.content-image{
+    height: 64px;
+    width: 64px;
+    background-color: #cdcdcd !important;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 100px
+}
+footer{
+    margin-top: 100px;
+  
+    font-weight: 400;
+    background-color:#dbdbdb;
+    padding: 26px;
+}
+.informasi-footer h5{
+    margin-left: 55px;
+    font-weight: 800;
+}
+.kopi{
+    text-align: center;
+}
+.icon-footer{
+    text-align: right;
+}
